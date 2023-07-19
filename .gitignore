@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Other files ###
+config.json
+secrets.properties
